@@ -11,3 +11,7 @@ After that, you can see 3 options (Create a note, Read a note and Exit the progr
 
 Now, if you want to read a note, in the main menu, type number 2 and put the name of the note that you want to see, for example:
 ![Captura de pantalla 2023-10-26 a las 16 59 53](https://github.com/witoo-source/Notepad.js/assets/133872532/55a3d370-6bdc-422f-b0ce-aedd552f66b3)
+
+The same process in Windows 11 (22h2) and Linux (I think, xd):
+![Captura de pantalla 2023-10-26 171519](https://github.com/witoo-source/Notepad.js/assets/133872532/c6fdb6cd-e2bb-4ff7-ad4f-76b50127141f)
+
